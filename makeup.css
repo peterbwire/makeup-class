@@ -1,0 +1,22 @@
+   body{
+     background-color:#008000;
+     background-image:watchi.jpeg;
+   }
+   table{
+     background-color:#408080;
+   }
+   #mine{
+     background-color:#5F9EA0;
+     padding:30px;
+   }
+   #mine li {
+     display:inline;
+     margin-right:30px;
+     padding:20px;
+   }
+   fieldset{
+    background-color:gray;
+   }
+   p{
+    
+   }
